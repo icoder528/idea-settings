@@ -1,0 +1,17 @@
+<application>
+  <component name="vgo">
+    <exec-paths>
+      <list>
+        <option value="D:\Framework\golang\bin\vgo.exe" />
+      </list>
+    </exec-paths>
+    <proxies>
+      <list>
+        <option value="socks5://127.0.0.1:1080" />
+        <option value="http://127.0.0.1:1082" />
+        <option value="https://127.0.0.1:1082" />
+        <option value="direct" />
+      </list>
+    </proxies>
+  </component>
+</application>

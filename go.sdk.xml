@@ -1,0 +1,11 @@
+<application>
+  <component name="GoSdkList">
+    <sdk-path>
+      <set>
+        <option value="D:/Go" />
+        <option value="D:\GO" />
+        <option value="D:\Go" />
+      </set>
+    </sdk-path>
+  </component>
+</application>

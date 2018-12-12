@@ -1,0 +1,19 @@
+<templateSet group="Go">
+  <template name="dff" value="defer func() {&#10;    $END$&#10;}()" description="defer function" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GO" value="true" />
+    </context>
+  </template>
+  <template name="dfn" value="defer $NAME$()" description="defer named function" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO" value="true" />
+    </context>
+  </template>
+  <template name="dfrcv" value="defer func(){&#10;    if v := recover(); v != nil{&#10;        $NAME$&#10;    }&#10;}()" description="defer recover" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,66 @@
+<application>
+  <component name="AppStorage">
+    <option name="lastLanguages">
+      <language-pair target="CHINESE" />
+    </option>
+    <histories>
+      <item value="audio" />
+      <item value="video" />
+      <item value="conversation" />
+      <item value="会话" />
+      <item value="对话" />
+      <item value="客服" />
+      <item value="用户" />
+      <item value="顾客" />
+      <item value="客户" />
+      <item value="区间" />
+      <item value="Chrono" />
+      <item value="Chrono Unit" />
+      <item value="establish" />
+      <item value="建立" />
+      <item value="segment" />
+      <item value="引用" />
+      <item value="referer" />
+      <item value="original" />
+      <item value="normal" />
+      <item value="边界" />
+      <item value="归一化" />
+      <item value="复查" />
+      <item value="reveval" />
+      <item value="停止录音" />
+      <item value="录音" />
+      <item value="句柄" />
+      <item value="POLARITY" />
+      <item value="信号" />
+      <item value="valut" />
+      <item value="vault" />
+      <item value="Generator" />
+      <item value="Id Generator" />
+      <item value="the garden of Escapism " />
+      <item value="Escapism " />
+      <item value="占线" />
+      <item value="上机自检" />
+      <item value="自检" />
+      <item value="idle" />
+      <item value="释放" />
+      <item value="obtain" />
+      <item value="通知" />
+      <item value="录音盒" />
+      <item value="统计" />
+      <item value="static" />
+      <item value="staic" />
+      <item value="supreme" />
+      <item value="supre" />
+      <item value="money" />
+      <item value="use fully qualified class names" />
+      <item value="fully qualified class names" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="46" />
+        <entry key="DANISH" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

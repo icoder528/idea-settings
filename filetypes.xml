@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="stopwords" type="PLAIN_TEXT" />
+      <mapping pattern="__init__.py" type="PLAIN_TEXT" />
+      <mapping pattern="ds" type="PLAIN_TEXT" />
+      <mapping pattern="SessionService.proto" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="protoc" type="PLAIN_TEXT" />
+      <mapping ext="dict" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="utf8" type="PLAIN_TEXT" />
+      <mapping pattern="__init__" type="Python" />
+      <mapping ext="tml" type="TOML file" />
+    </extensionMap>
+  </component>
+</application>
