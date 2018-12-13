@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="* Creates an instance of {@code ReentrantLock} with the * given fairness policy. * * @param fair {@code true} if this lock should use a fair ordering policy" />
       <item value="character" />
       <item value="// RoleManager provides interface to define the operations for managing roles." />
       <item value="// Unless required by applicable law or agreed to in writing, software&#10;// distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#10;// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#10;// See the License for the specific language governing permissions and&#10;// limitations under the License." />
@@ -53,12 +54,11 @@
       <item value="idle" />
       <item value="释放" />
       <item value="obtain" />
-      <item value="通知" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
