@@ -4,6 +4,10 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="serve" />
+      <item value="serv" />
+      <item value="server" />
+      <item value="searv" />
       <item value="* Creates an instance of {@code ReentrantLock} with the * given fairness policy. * * @param fair {@code true} if this lock should use a fair ordering policy" />
       <item value="character" />
       <item value="// RoleManager provides interface to define the operations for managing roles." />
@@ -50,14 +54,10 @@
       <item value="Escapism " />
       <item value="占线" />
       <item value="上机自检" />
-      <item value="自检" />
-      <item value="idle" />
-      <item value="释放" />
-      <item value="obtain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
+        <entry key="CHINESE" value="53" />
         <entry key="ENGLISH" value="53" />
         <entry key="DANISH" value="1" />
       </map>
