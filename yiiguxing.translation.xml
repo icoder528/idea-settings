@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="顿号" />
       <item value="来源" />
       <item value="serve" />
       <item value="serv" />
@@ -53,7 +54,6 @@
       <item value="Id Generator" />
       <item value="the garden of Escapism " />
       <item value="Escapism " />
-      <item value="占线" />
     </histories>
     <option name="languageScores">
       <map>
