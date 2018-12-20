@@ -4,6 +4,11 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="组织" />
+      <item value="chinacourt" />
+      <item value="lawcourt" />
+      <item value="court" />
+      <item value="法规" />
       <item value="Code scaffolding" />
       <item value="HUB activated" />
       <item value="activated" />
@@ -49,16 +54,11 @@
       <item value="边界" />
       <item value="归一化" />
       <item value="复查" />
-      <item value="reveval" />
-      <item value="停止录音" />
-      <item value="录音" />
-      <item value="句柄" />
-      <item value="POLARITY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
