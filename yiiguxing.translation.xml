@@ -4,6 +4,10 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="serve" />
+      <item value="searv" />
+      <item value="概要设计" />
+      <item value="需求文档" />
       <item value="darkside" />
       <item value="排斥" />
       <item value="互斥" />
@@ -21,10 +25,8 @@
       <item value="激活的" />
       <item value="顿号" />
       <item value="来源" />
-      <item value="serve" />
       <item value="serv" />
       <item value="server" />
-      <item value="searv" />
       <item value="* Creates an instance of {@code ReentrantLock} with the * given fairness policy. * * @param fair {@code true} if this lock should use a fair ordering policy" />
       <item value="character" />
       <item value="// RoleManager provides interface to define the operations for managing roles." />
@@ -52,13 +54,11 @@
       <item value="segment" />
       <item value="引用" />
       <item value="referer" />
-      <item value="original" />
-      <item value="normal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="58" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
