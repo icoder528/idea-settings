@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="繁体字" />
       <item value="inject" />
       <item value="l" />
       <item value="按键" />
@@ -53,7 +54,6 @@
       <item value="Chrono" />
       <item value="Chrono Unit" />
       <item value="establish" />
-      <item value="建立" />
     </histories>
     <option name="languageScores">
       <map>
