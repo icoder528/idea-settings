@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="structure" />
       <item value="punct" />
       <item value="繁体字" />
       <item value="inject" />
@@ -53,12 +54,11 @@
       <item value="客户" />
       <item value="区间" />
       <item value="Chrono" />
-      <item value="Chrono Unit" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
       </map>
