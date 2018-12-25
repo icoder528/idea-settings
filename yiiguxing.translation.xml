@@ -4,6 +4,9 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="and after the element * that would be returned by {@link #previous}, if any." />
+      <item value="* The element is inserted immediately before the element that * would be returned by {@link #next}, if any," />
+      <item value="* Inserts the specified element into the list (optional operation). * The element is inserted immediately before the element that * would be returned by {@link #next}, if any, and after the element * that would be returned by {@link #previous}, if any." />
       <item value="toggle" />
       <item value="structure" />
       <item value="punct" />
@@ -51,14 +54,11 @@
       <item value="对话" />
       <item value="客服" />
       <item value="用户" />
-      <item value="顾客" />
-      <item value="客户" />
-      <item value="区间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
       </map>
