@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="stopwords" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="__init__.py" type="PLAIN_TEXT" />
       <mapping pattern="ds" type="PLAIN_TEXT" />
       <mapping pattern="SessionService.proto" type="PLAIN_TEXT" />
