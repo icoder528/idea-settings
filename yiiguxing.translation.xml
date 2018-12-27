@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="stash" />
       <item value="joinnable" />
       <item value="joinable" />
       <item value="下一级" />
@@ -53,7 +54,6 @@
       <item value="character" />
       <item value="// RoleManager provides interface to define the operations for managing roles." />
       <item value="// Unless required by applicable law or agreed to in writing, software&#10;// distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#10;// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#10;// See the License for the specific language governing permissions and&#10;// limitations under the License." />
-      <item value="// RoleManager provides interface to define the operations for managing roles.&#10;type RoleManager interface { // Clear clears all stored data and resets the role manager to the initial state. Clear() error // AddLink adds the inheritance link between two roles. role: name1 and role: name2. // domain is a prefix to the roles (can be used for other purposes). AddLink(name1 string, name2 string, domain ...string) error // DeleteLink deletes the inheritance link between two roles. role: name1 and role: name2. // domain is a prefix to the roles (can be used for other purposes). DeleteLink(name1 string, name2 string, domain ...string) error // HasLink determines whether a link exists between two roles. role: name1 inherits role: name2. // domain is a prefix to the roles (can be used for other purposes). HasLink(name1 string, name2 string, domain ...string) (bool, error) // GetRoles gets the roles that a user inherits. // domain is a prefix to the roles (can be used for other purposes). GetRoles(name string, domain ...string) ([]string, error) // GetUsers gets the users that inherits a role. // domain is a prefix to the users (can be used for other purposes). GetUsers(name string, domain ...string) ([]string, error) // PrintRoles prints all the roles to log. PrintRoles() error&#10;}" />
     </histories>
     <option name="languageScores">
       <map>
