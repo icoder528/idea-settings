@@ -4,6 +4,12 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="splitted" />
+      <item value="split" />
+      <item value="切开的" />
+      <item value="切分的" />
+      <item value="splited" />
+      <item value="splite" />
       <item value="wu manber" />
       <item value="wumanber" />
       <item value="manber" />
@@ -48,17 +54,11 @@
       <item value="active" />
       <item value="actived" />
       <item value="activatied" />
-      <item value="激活的" />
-      <item value="顿号" />
-      <item value="来源" />
-      <item value="serv" />
-      <item value="server" />
-      <item value="* Creates an instance of {@code ReentrantLock} with the * given fairness policy. * * @param fair {@code true} if this lock should use a fair ordering policy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="71" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
