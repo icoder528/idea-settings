@@ -28301,6 +28301,30 @@
               <RHBaseItem>
                 <option name="id" value="3303529" />
               </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="3303801" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="3303802" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="3303743" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="3303771" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="3303803" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="3303806" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="3303811" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="3303732" />
+              </RHBaseItem>
             </list>
           </value>
         </entry>
@@ -40252,6 +40276,10 @@
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
                 <option name="id" value="3299743" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="3303775" />
               </RHBaseItem>
             </list>
           </value>
@@ -54713,6 +54741,14 @@
               <RHBaseItem>
                 <option name="category" value="BLOCKCHAIN" />
                 <option name="id" value="3303167" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="3303700" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="3303689" />
               </RHBaseItem>
             </list>
           </value>
