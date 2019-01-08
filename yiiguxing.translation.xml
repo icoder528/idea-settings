@@ -4,6 +4,10 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="operates" />
+      <item value="opera" />
+      <item value="operate" />
+      <item value="Operations" />
       <item value="// Clone works just like Copy, but also reuses the same socket as the original&#10;// session, in case it had already reserved one due to its consistency&#10;// guarantees. This behavior ensures that writes performed in the old session&#10;// are necessarily observed when using the new session, as long as it was a&#10;// strong or monotonic session. That said, it also means that long operations&#10;// may cause other goroutines using the original session to wait." />
       <item value="truncate" />
       <item value="点" />
@@ -50,14 +54,10 @@
       <item value="挖掘" />
       <item value="Retrieval" />
       <item value="分词器" />
-      <item value="分瓷器" />
-      <item value="// The append built-in function appends elements to the end of a slice. If&#10;// it has sufficient capacity, the destination is resliced to accommodate the&#10;// new elements. If it does not, a new underlying array will be allocated.&#10;// Append returns the updated slice. It is therefore necessary to store the&#10;// result of append, often in the variable holding the slice itself:&#10;//&#9;slice = append(slice, elem1, elem2)&#10;//&#9;slice = append(slice, anotherSlice...)&#10;// As a special case, it is legal to append a string to a byte slice, like this:&#10;//&#9;slice = append([]byte(&quot;hello &quot;), &quot;world&quot;...)" />
-      <item value="剩下的" />
-      <item value="Comodification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
+        <entry key="CHINESE" value="77" />
         <entry key="ENGLISH" value="77" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
