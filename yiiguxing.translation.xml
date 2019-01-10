@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="反斜杠" />
       <item value="真实地址" />
       <item value="物理的" />
       <item value="operates" />
@@ -53,7 +54,6 @@
       <item value="joinnable" />
       <item value="joinable" />
       <item value="下一级" />
-      <item value="挖掘" />
     </histories>
     <option name="languageScores">
       <map>
