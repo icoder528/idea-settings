@@ -4,6 +4,9 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="segment" />
+      <item value="segement" />
+      <item value="Segmenter" />
       <item value="interact" />
       <item value="共享的" />
       <item value="shared" />
@@ -51,9 +54,6 @@
       <item value="资源" />
       <item value="自定义" />
       <item value="符号" />
-      <item value="splitted" />
-      <item value="split" />
-      <item value="切开的" />
     </histories>
     <option name="languageScores">
       <map>
