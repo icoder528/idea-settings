@@ -4,6 +4,7 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="三目" />
       <item value="segment" />
       <item value="segement" />
       <item value="Segmenter" />
@@ -53,12 +54,11 @@
       <item value="资源文件" />
       <item value="资源" />
       <item value="自定义" />
-      <item value="符号" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
