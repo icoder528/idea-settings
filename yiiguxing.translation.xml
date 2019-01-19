@@ -4,6 +4,11 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="权限" />
+      <item value="并发量" />
+      <item value="并发" />
+      <item value="命令行" />
+      <item value="工具" />
       <item value="阈值" />
       <item value="三目" />
       <item value="segment" />
@@ -49,11 +54,6 @@
       <item value="目录" />
       <item value="物理" />
       <item value="虚拟路径" />
-      <item value="获取" />
-      <item value="Retrival" />
-      <item value="Load" />
-      <item value="资源文件" />
-      <item value="资源" />
     </histories>
     <option name="languageScores">
       <map>
