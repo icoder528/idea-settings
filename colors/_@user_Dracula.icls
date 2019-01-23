@@ -1,22 +1,11 @@
 <scheme name="_@user_Dracula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-01-18T14:18:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-22T14:39:50</property>
+    <property name="modified">2019-01-23T13:17:26</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Microsoft YaHei" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="50fa7b" />
     <option name="ANNOTATIONS_COLOR" value="282a36" />
