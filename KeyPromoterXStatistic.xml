@@ -201,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show in Explorer">
+        <Item>
+          <IdeaActionID>RevealIn</IdeaActionID>
+          <ShortCut>'Shift+F12'</ShortCut>
+          <Description>Show in Explorer</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Jetty 9.4.14.v20181114'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
