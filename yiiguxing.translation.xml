@@ -4,6 +4,11 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="主叫身份" />
+      <item value="被叫" />
+      <item value="主叫" />
+      <item value="recognize" />
+      <item value="recognizer" />
       <item value="separator" />
       <item value="分割" />
       <item value="Sperator" />
@@ -49,16 +54,11 @@
       <item value="metar" />
       <item value="metaor" />
       <item value="metaaor" />
-      <item value="meta" />
-      <item value="黏上" />
-      <item value="绑定" />
-      <item value="atanch" />
-      <item value="atach" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
