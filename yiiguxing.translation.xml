@@ -4,6 +4,11 @@
       <language-pair target="CHINESE" />
     </option>
     <histories>
+      <item value="identity" />
+      <item value="identer" />
+      <item value="identitier" />
+      <item value="identiter" />
+      <item value="identitor" />
       <item value="intersection" />
       <item value="主叫身份" />
       <item value="被叫" />
@@ -49,11 +54,6 @@
       <item value="// Clone works just like Copy, but also reuses the same socket as the original&#10;// session, in case it had already reserved one due to its consistency&#10;// guarantees. This behavior ensures that writes performed in the old session&#10;// are necessarily observed when using the new session, as long as it was a&#10;// strong or monotonic session. That said, it also means that long operations&#10;// may cause other goroutines using the original session to wait." />
       <item value="truncate" />
       <item value="点" />
-      <item value="斜杠" />
-      <item value="策略" />
-      <item value="metasser" />
-      <item value="metar" />
-      <item value="metaor" />
     </histories>
     <option name="languageScores">
       <map>
