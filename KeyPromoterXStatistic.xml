@@ -206,7 +206,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'go build main.go'</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'go build web.go'">
@@ -271,14 +271,6 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'build'</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'go build main.go'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'go build main.go'</Description>
-          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'go build web.go'">
@@ -463,6 +455,14 @@
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'go build main.go'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'go build main.go'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
     </option>
