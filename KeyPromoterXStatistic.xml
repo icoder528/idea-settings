@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>375</Count>
+          <Count>376</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -355,6 +355,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Close Others">
+        <Item>
+          <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
+          <Description>Close Others</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
