@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="独有" />
+      <item value="新增" />
       <item value="天涯" />
       <item value="Linked List" />
       <item value="{&#10;                termList.addFirst(wordNet[i]);&#10;                i -= wordNet[i].word.length();&#10;            }" />
@@ -49,8 +51,6 @@
       <item value="* Set the duration without ongoing RPCs before going to idle mode. * * &lt;p&gt;In idle mode the channel shuts down all connections, the NameResolver and the * LoadBalancer. A new RPC would take the channel out of idle mode. A channel starts in idle mode. * * &lt;p&gt;By default the channel will never go to idle mode after it leaves the initial idle * mode. * * &lt;p&gt;This is an advisory option. Do not rely on any specific behavior related to this option." />
       <item value="反斜杠" />
       <item value="真实地址" />
-      <item value="operates" />
-      <item value="opera" />
     </histories>
     <option name="languageScores">
       <map>
