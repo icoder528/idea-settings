@@ -33,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Context Info">
+        <Item>
+          <IdeaActionID>EditorContextInfo</IdeaActionID>
+          <ShortCut>'Alt+Q'</ShortCut>
+          <Description>Context Info</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -86,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>418</Count>
+          <Count>422</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -103,6 +111,14 @@
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Expression Type">
+        <Item>
+          <IdeaActionID>ExpressionTypeInfo</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+P'</ShortCut>
+          <Description>Expression Type</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -137,11 +153,27 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Jump to Source">
+        <Item>
+          <IdeaActionID>EditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Jump to Source</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="New Folder...">
         <Item>
           <IdeaActionID>FileChooser.NewFolder</IdeaActionID>
           <ShortCut>'Alt+Insert' or 'Ctrl+N'</ShortCut>
           <Description>New Folder...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Parameter Info">
+        <Item>
+          <IdeaActionID>ParameterInfo</IdeaActionID>
+          <ShortCut>'Ctrl+P'</ShortCut>
+          <Description>Parameter Info</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
