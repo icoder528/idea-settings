@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -151,6 +151,14 @@
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Insert Live Template...">
+        <Item>
+          <IdeaActionID>InsertLiveTemplate</IdeaActionID>
+          <ShortCut>'Ctrl+J'</ShortCut>
+          <Description>Insert Live Template...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
