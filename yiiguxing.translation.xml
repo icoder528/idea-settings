@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="依存关系" />
+      <item value="依存" />
+      <item value="deprel" />
       <item value="example" />
       <item value="corpus" />
       <item value="unary minus" />
@@ -48,14 +51,11 @@
       <item value="segment" />
       <item value="segement" />
       <item value="Segmenter" />
-      <item value="interact" />
-      <item value="共享的" />
-      <item value="shared" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="SPANISH" value="1" />
