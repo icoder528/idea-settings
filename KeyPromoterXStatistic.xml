@@ -54,7 +54,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>584</Count>
+          <Count>612</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -535,6 +535,12 @@
         <Item>
           <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
           <Description>Close Others</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Event Log">
+        <Item>
+          <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
+          <Description>Event Log</Description>
         </Item>
       </Statistic>
       <Statistic Action="Project">
