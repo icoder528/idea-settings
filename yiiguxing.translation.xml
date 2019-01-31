@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="neural" />
+      <item value="Native Parser Wrapper" />
       <item value="依存关系" />
       <item value="依存" />
       <item value="deprel" />
@@ -49,15 +51,13 @@
       <item value="阈值" />
       <item value="三目" />
       <item value="segment" />
-      <item value="segement" />
-      <item value="Segmenter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
+        <entry key="CHINESE" value="96" />
         <entry key="ENGLISH" value="95" />
         <entry key="DANISH" value="1" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="3" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
