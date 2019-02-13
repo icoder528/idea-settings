@@ -286,7 +286,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'go build main.go'</Description>
-          <Count>70</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'go build web.go'">
