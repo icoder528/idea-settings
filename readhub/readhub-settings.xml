@@ -1,5 +1,6 @@
 <application>
   <component name="readhubSettings">
+    <option name="pluginId" value="cwovg6nI" />
     <option name="refreshMode" value="MINUTES_10" />
   </component>
 </application>
