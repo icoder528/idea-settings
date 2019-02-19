@@ -39,9 +39,6 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift f12" />
   </action>
-  <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="shift alt z" />
-  </action>
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="shift alt f12" />
   </action>
