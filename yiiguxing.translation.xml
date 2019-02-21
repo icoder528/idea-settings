@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="evil" />
+      <item value="person" />
       <item value="human" />
       <item value="create" />
       <item value="创建" />
@@ -49,8 +51,6 @@
       <item value="intersection" />
       <item value="主叫身份" />
       <item value="被叫" />
-      <item value="主叫" />
-      <item value="recognize" />
     </histories>
     <option name="languageScores">
       <map>
