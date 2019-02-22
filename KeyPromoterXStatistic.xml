@@ -161,6 +161,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Flatten Packages">
+        <Item>
+          <IdeaActionID>TodoViewGroupByFlattenPackage</IdeaActionID>
+          <ShortCut>'Ctrl+F'</ShortCut>
+          <Description>Flatten Packages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Fold Code Block">
         <Item>
           <IdeaActionID>CollapseBlock</IdeaActionID>
@@ -662,7 +670,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
