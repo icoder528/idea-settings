@@ -81,6 +81,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'NlpH2uCommand'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'NlpH2uCommand'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'TestUnknowRecognizer'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -137,6 +145,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="File Path">
+        <Item>
+          <IdeaActionID>ShowFilePath</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F12'</ShortCut>
+          <Description>File Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find">
         <Item>
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
@@ -183,6 +199,14 @@
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hierarchy">
+        <Item>
+          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Hierarchy</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Highlight current scope">
@@ -430,7 +454,15 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>23</Count>
+          <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AnaphoricResolution'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'AnaphoricResolution'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Client'">
@@ -583,6 +615,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Main'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'NlpH2uCommand'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'NlpH2uCommand'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TestUnknowRecognizer'">
