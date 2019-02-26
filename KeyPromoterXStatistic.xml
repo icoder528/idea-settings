@@ -697,6 +697,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'go build main.go (3)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'go build main.go (3)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'go build scratch_3.go'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -758,7 +766,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
