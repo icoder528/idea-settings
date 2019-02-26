@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prohibited" />
       <item value="未实现" />
       <item value="evil" />
       <item value="person" />
@@ -50,12 +51,11 @@
       <item value="identiter" />
       <item value="identitor" />
       <item value="intersection" />
-      <item value="主叫身份" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="SPANISH" value="1" />
