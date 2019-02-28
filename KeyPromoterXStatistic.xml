@@ -422,7 +422,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'go build main.go (2)'</Description>
-          <Count>17</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'go build main.go'">
@@ -430,7 +430,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'go build main.go'</Description>
-          <Count>100</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'go build scratch_3.go'">
@@ -766,7 +766,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>66</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
