@@ -430,7 +430,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'go build main.go'</Description>
-          <Count>104</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'go build scratch_3.go'">
@@ -478,7 +478,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'AnaphoricResolution'">
@@ -766,7 +766,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>68</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
