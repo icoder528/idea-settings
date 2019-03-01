@@ -329,6 +329,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'BenchmarkS_Match in nlpkg/extraction/keyword'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'BenchmarkS_Match in nlpkg/extraction/keyword'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Client'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
