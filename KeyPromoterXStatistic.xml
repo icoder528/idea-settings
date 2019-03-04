@@ -481,14 +481,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run">
-        <Item>
-          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
-          <ShortCut>'Alt+4'</ShortCut>
-          <Description>Run</Description>
-          <Count>36</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'AnaphoricResolution'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -877,6 +869,14 @@
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'go build main.go'">
