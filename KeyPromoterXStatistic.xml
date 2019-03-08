@@ -110,7 +110,15 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'TestArabicNum2CN in base/lang/hanzi'</Description>
-          <Count>12</Count>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'TestCNum2Arabic in base/lang/hanzi'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'TestCNum2Arabic in base/lang/hanzi'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'TestUnknowRecognizer'">
@@ -174,7 +182,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expression Type">
@@ -574,7 +582,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'TestArabicNum2CN in base/lang/hanzi'</Description>
-          <Count>30</Count>
+          <Count>33</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'TestCNum2Arabic in base/lang/hanzi'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'TestCNum2Arabic in base/lang/hanzi'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tomcat 6.0.44'">
@@ -718,7 +734,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'TestArabicNum2CN in base/lang/hanzi'</Description>
-          <Count>13</Count>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TestCNum2Arabic in base/lang/hanzi'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'TestCNum2Arabic in base/lang/hanzi'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'TestUnknowRecognizer'">
