@@ -673,6 +673,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'go build main.go (2)'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'go build main.go (2)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'go build web.go'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
