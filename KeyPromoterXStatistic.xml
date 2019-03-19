@@ -673,14 +673,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'chatboxapi_v2'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'chatboxapi_v2'</Description>
-          <Count>21</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'chatter_test'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -878,7 +870,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'chatboxapi_v2'</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'go build jg.go'">
@@ -1061,6 +1053,14 @@
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
           <Count>37</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'chatboxapi_v2'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'chatboxapi_v2'</Description>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'go build main.go'">
