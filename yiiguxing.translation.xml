@@ -72,6 +72,9 @@
     <option name="foldOriginal" value="true" />
     <option name="ignoreRegExp" value="" />
     <option name="keepFormat" value="true" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="DejaVu Sans Mono" />
+    <option name="primaryFontFamily" value="Microsoft YaHei UI" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="391144569200f70a" />
