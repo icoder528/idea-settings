@@ -2,7 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="compactDropdowns" value="true" />
     <option name="darkTitleBar" value="true" />
-    <option name="highlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
@@ -11,7 +10,7 @@
     <option name="useMaterialFont2" value="true" />
     <option name="tabsHeight" value="18" />
     <option name="accentColor" value="80cbc4" />
-    <option name="selectedTheme" value="ONE_LIGHT" />
+    <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="6939974e:1685f9c95a2:-8000" />
     <option name="version" value="3.5.0.1" />
     <option name="tabHighlightPosition" value="Bottom" />
