@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="后缀" />
+      <item value="suffux" />
+      <item value="thrice" />
+      <item value="三次" />
+      <item value="三个" />
       <item value="accent color" />
       <item value="jan" />
       <item value="授权" />
@@ -46,16 +51,11 @@
       <item value="example" />
       <item value="corpus" />
       <item value="unary minus" />
-      <item value="unary" />
-      <item value="uminus" />
-      <item value="unminus" />
-      <item value="缺少" />
-      <item value="exclusive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="113" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="SPANISH" value="1" />
