@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="强交互" />
       <item value="special" />
       <item value="specil" />
       <item value="后缀" />
@@ -50,12 +51,11 @@
       <item value="依存关系" />
       <item value="依存" />
       <item value="deprel" />
-      <item value="example" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="SPANISH" value="1" />
