@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="广播" />
+      <item value="原始" />
+      <item value="// Peek returns the next n bytes without advancing the reader. The bytes stop&#10;// being valid at the next read call. If Peek returns fewer than n bytes, it&#10;// also returns an error explaining why the read is short. The error is&#10;// ErrBufferFull if n is larger than b's buffer size.&#10;//&#10;// Calling Peek prevents a UnreadByte or UnreadRune call from succeeding&#10;// until the next read operation." />
+      <item value="// Discard skips the next n bytes, returning the number of bytes discarded.&#10;//&#10;// If Discard skips fewer than n bytes, it also returns an error.&#10;// If 0 &lt;= n &lt;= b.Buffered(), Discard is guaranteed to succeed without&#10;// reading from the underlying io.Reader." />
+      <item value="可用的" />
+      <item value="不激活的" />
+      <item value="失效的" />
+      <item value="read" />
+      <item value="infrastructure" />
+      <item value="infrastruction" />
+      <item value="基础设施" />
+      <item value="协议" />
       <item value="强交互" />
       <item value="special" />
       <item value="specil" />
@@ -39,23 +51,11 @@
       <item value="rough" />
       <item value="remedy" />
       <item value="一句话" />
-      <item value="序列化" />
-      <item value="原型" />
-      <item value="acquire" />
-      <item value="获取" />
-      <item value="并发量" />
-      <item value="信号量" />
-      <item value="处理" />
-      <item value="neural" />
-      <item value="Native Parser Wrapper" />
-      <item value="依存关系" />
-      <item value="依存" />
-      <item value="deprel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="SPANISH" value="1" />
