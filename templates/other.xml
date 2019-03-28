@@ -1,8 +1,5 @@
 <templateSet group="other">
   <template name="main" value="public static void main(String[] args){&#10;  $END$&#10;}" description="alias psvm" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="GROOVY_DECLARATION" value="true" />
-      <option name="JAVA_DECLARATION" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
