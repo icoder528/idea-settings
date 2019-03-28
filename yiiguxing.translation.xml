@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="signup" />
       <item value="广播" />
       <item value="原始" />
       <item value="// Peek returns the next n bytes without advancing the reader. The bytes stop&#10;// being valid at the next read call. If Peek returns fewer than n bytes, it&#10;// also returns an error explaining why the read is short. The error is&#10;// ErrBufferFull if n is larger than b's buffer size.&#10;//&#10;// Calling Peek prevents a UnreadByte or UnreadRune call from succeeding&#10;// until the next read operation." />
@@ -50,11 +51,10 @@
       <item value="Perception" />
       <item value="rough" />
       <item value="remedy" />
-      <item value="一句话" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
+        <entry key="CHINESE" value="117" />
         <entry key="ENGLISH" value="117" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
