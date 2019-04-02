@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parser" />
+      <item value="parse" />
       <item value="Registry" />
       <item value="注册器" />
       <item value="registery" />
@@ -49,8 +51,6 @@
       <item value="真实的" />
       <item value="prohibited" />
       <item value="未实现" />
-      <item value="evil" />
-      <item value="person" />
     </histories>
     <option name="languageScores">
       <map>
