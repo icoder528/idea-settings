@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="接入接口" />
+      <item value="接入端" />
       <item value="Revoke" />
       <item value="invalidate Token" />
       <item value="使失效" />
@@ -49,8 +51,6 @@
       <item value="accent color" />
       <item value="jan" />
       <item value="授权" />
-      <item value="decimal" />
-      <item value="exponent" />
     </histories>
     <option name="languageScores">
       <map>
