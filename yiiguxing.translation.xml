@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Revoke" />
+      <item value="invalidate Token" />
+      <item value="使失效" />
+      <item value="失效" />
       <item value="渲染" />
       <item value="render" />
       <item value="查询" />
@@ -47,15 +51,11 @@
       <item value="授权" />
       <item value="decimal" />
       <item value="exponent" />
-      <item value="余数" />
-      <item value="财务" />
-      <item value="中文" />
-      <item value="小写" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="SPANISH" value="1" />
