@@ -53,6 +53,11 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="id" value="7M7VTXstIai" />
+                <option name="order" value="134613" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TOPIC" />
                 <option name="id" value="7M7VErXqb2W" />
                 <option name="order" value="134611" />
               </RHBaseItem>
@@ -16405,6 +16410,12 @@
               <RHBaseItem>
                 <option name="id" value="5053148" />
               </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="5053224" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="5053216" />
+              </RHBaseItem>
             </list>
           </value>
         </entry>
@@ -32682,6 +32693,7 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="BLOCKCHAIN" />
+                <option name="finished" value="true" />
                 <option name="id" value="5053090" />
               </RHBaseItem>
               <RHBaseItem>
@@ -32690,6 +32702,7 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="BLOCKCHAIN" />
+                <option name="finished" value="true" />
                 <option name="id" value="5053069" />
               </RHBaseItem>
               <RHBaseItem>
@@ -32751,6 +32764,46 @@
               <RHBaseItem>
                 <option name="category" value="BLOCKCHAIN" />
                 <option name="id" value="5052662" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5053146" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5053154" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5053220" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5053217" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5053210" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5053304" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5053256" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5053282" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5053255" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5053240" />
               </RHBaseItem>
             </list>
           </value>
@@ -40850,6 +40903,7 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="JOB" />
+                <option name="finished" value="true" />
                 <option name="id" value="19792" />
               </RHBaseItem>
               <RHBaseItem>
@@ -40862,6 +40916,7 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="JOB" />
+                <option name="finished" value="true" />
                 <option name="id" value="19789" />
               </RHBaseItem>
               <RHBaseItem>
