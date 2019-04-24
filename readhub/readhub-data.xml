@@ -16866,6 +16866,18 @@
               <RHBaseItem>
                 <option name="id" value="5057005" />
               </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="5057177" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="5057181" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="5057133" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="5057121" />
+              </RHBaseItem>
             </list>
           </value>
         </entry>
@@ -25290,6 +25302,10 @@
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
                 <option name="id" value="5057108" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="5057174" />
               </RHBaseItem>
             </list>
           </value>
@@ -34022,6 +34038,30 @@
               <RHBaseItem>
                 <option name="category" value="BLOCKCHAIN" />
                 <option name="id" value="5057000" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5057190" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5057166" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5057162" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5057161" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5057151" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5057128" />
               </RHBaseItem>
             </list>
           </value>
