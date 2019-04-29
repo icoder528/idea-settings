@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="主动关闭" />
       <item value="Authentication" />
       <item value="manager" />
       <item value="// AfterFunc waits for the duration to elapse and then calls f&#10;// in its own goroutine. It returns a Timer that can&#10;// be used to cancel the call using its Stop method." />
@@ -50,7 +51,6 @@
       <item value="tcpKeepAliveListener sets TCP keep-alive timeouts on accepted connections. It's used by ListenAndServe and ListenAndServeTLS so dead TCP connections (e.g. closing laptop mid-download) eventually go away." />
       <item value="// tcpKeepAliveListener sets TCP keep-alive timeouts on accepted&#10;// connections. It's used by ListenAndServe and ListenAndServeTLS so&#10;// dead TCP connections (e.g. closing laptop mid-download) eventually&#10;// go away." />
       <item value="middleware" />
-      <item value="signup" />
     </histories>
     <option name="languageScores">
       <map>
