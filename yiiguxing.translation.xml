@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manual" />
       <item value="归还" />
       <item value="borrow" />
       <item value="借还" />
@@ -50,11 +51,10 @@
       <item value="valide" />
       <item value="并发" />
       <item value="间隔" />
-      <item value="parser" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
+        <entry key="CHINESE" value="143" />
         <entry key="ENGLISH" value="143" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
