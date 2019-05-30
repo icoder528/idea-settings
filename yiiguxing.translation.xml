@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="租赁" />
       <item value="消费" />
       <item value="扣款失败" />
       <item value="金额不足" />
@@ -50,7 +51,6 @@
       <item value="渲染" />
       <item value="render" />
       <item value="查询" />
-      <item value="acquire" />
     </histories>
     <option name="languageScores">
       <map>
