@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="注入" />
       <item value="执行" />
       <item value="act" />
       <item value="归还" />
@@ -50,7 +51,6 @@
       <item value="注册" />
       <item value="registry" />
       <item value="expose" />
-      <item value="暴露" />
     </histories>
     <option name="languageScores">
       <map>
