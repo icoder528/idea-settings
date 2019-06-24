@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="crawl" />
+      <item value="文章" />
       <item value="请求" />
       <item value="rule" />
       <item value="任务" />
@@ -49,12 +51,10 @@
       <item value="Epoch" />
       <item value="Epoch Time" />
       <item value="主动关闭" />
-      <item value="Authentication" />
-      <item value="manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
+        <entry key="CHINESE" value="152" />
         <entry key="ENGLISH" value="152" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
