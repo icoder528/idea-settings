@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="management" />
       <item value="crawl" />
       <item value="文章" />
       <item value="请求" />
@@ -50,7 +51,6 @@
       <item value="sink" />
       <item value="Epoch" />
       <item value="Epoch Time" />
-      <item value="主动关闭" />
     </histories>
     <option name="languageScores">
       <map>
