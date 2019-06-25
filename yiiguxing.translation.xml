@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="起点" />
       <item value="management" />
       <item value="crawl" />
       <item value="文章" />
@@ -50,12 +51,11 @@
       <item value="voice Url " />
       <item value="sink" />
       <item value="Epoch" />
-      <item value="Epoch Time" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
