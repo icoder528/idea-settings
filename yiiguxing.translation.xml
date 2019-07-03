@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="登记" />
+      <item value="Register" />
+      <item value="Registry" />
+      <item value="Registrar" />
+      <item value="注册器" />
       <item value="emotion" />
       <item value="自增" />
       <item value="bake" />
@@ -46,16 +51,11 @@
       <item value="并发" />
       <item value="任务清单" />
       <item value="woker" />
-      <item value="worker" />
-      <item value="工人" />
-      <item value="wokor" />
-      <item value="full-fill" />
-      <item value="fullfilled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
