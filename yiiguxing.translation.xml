@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="排除" />
       <item value="NoPublic" />
       <item value="公众号" />
       <item value="登记" />
@@ -50,12 +51,11 @@
       <item value="act" />
       <item value="归还" />
       <item value="限流" />
-      <item value="并发" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
