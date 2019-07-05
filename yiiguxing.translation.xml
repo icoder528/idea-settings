@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Clone works just like Copy, but also reuses the same socket as the original&#10;// session, in case it had already reserved one due to its consistency&#10;// guarantees.  This behavior ensures that writes performed in the old session&#10;// are necessarily observed when using the new session, as long as it was a&#10;// strong or monotonic session.  That said, it also means that long operations&#10;// may cause other goroutines using the original session to wait." />
+      <item value="// New creates a new session with the same parameters as the original&#10;// session, including consistency, batch size, prefetching, safety mode,&#10;// etc. The returned session will use sockets from the pool, so there's&#10;// a chance that writes just performed in another session may not yet&#10;// be visible.&#10;//&#10;// Login information from the original session will not be copied over&#10;// into the new session unless it was provided through the initial URL&#10;// for the Dial function.&#10;//&#10;// See the Copy and Clone methods." />
+      <item value="// Copy works just like New, but preserves the exact authentication&#10;// information from the original session." />
       <item value="排除" />
       <item value="NoPublic" />
       <item value="公众号" />
@@ -48,14 +51,11 @@
       <item value="宿主" />
       <item value="注入" />
       <item value="执行" />
-      <item value="act" />
-      <item value="归还" />
-      <item value="限流" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
