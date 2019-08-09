@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="触发" />
+      <item value="倒装" />
       <item value="映射" />
       <item value="一直" />
       <item value="overlay" />
@@ -49,8 +51,6 @@
       <item value="bake" />
       <item value="baike" />
       <item value="bike" />
-      <item value="expire at" />
-      <item value="expires at" />
     </histories>
     <option name="languageScores">
       <map>
