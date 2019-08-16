@@ -7,8 +7,8 @@
     </exec-paths>
     <proxies>
       <list>
-        <option value="https://athens.azurefd.net" />
         <option value="https://goproxy.io" />
+        <option value="https://athens.azurefd.net" />
         <option value="goproxy.io" />
         <option value="socks5://127.0.0.1:1080" />
         <option value="http://127.0.0.1:1082" />
