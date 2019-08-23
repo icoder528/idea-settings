@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="注册" />
+      <item value="注册器" />
       <item value="签到" />
       <item value="触发" />
       <item value="倒装" />
@@ -46,11 +48,9 @@
       <item value="Register" />
       <item value="Registry" />
       <item value="Registrar" />
-      <item value="注册器" />
       <item value="emotion" />
       <item value="自增" />
       <item value="bake" />
-      <item value="baike" />
     </histories>
     <option name="languageScores">
       <map>
