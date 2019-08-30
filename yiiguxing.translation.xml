@@ -1,12 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="指令" />
+      <item value="量化" />
+      <item value="策略" />
       <item value="立即" />
       <item value="市价" />
       <item value="挂单" />
       <item value="择优" />
       <item value="最优" />
-      <item value="策略" />
       <item value="被观察者" />
       <item value="注册" />
       <item value="注册器" />
@@ -49,8 +51,6 @@
       <item value="// New creates a new session with the same parameters as the original&#10;// session, including consistency, batch size, prefetching, safety mode,&#10;// etc. The returned session will use sockets from the pool, so there's&#10;// a chance that writes just performed in another session may not yet&#10;// be visible.&#10;//&#10;// Login information from the original session will not be copied over&#10;// into the new session unless it was provided through the initial URL&#10;// for the Dial function.&#10;//&#10;// See the Copy and Clone methods." />
       <item value="// Copy works just like New, but preserves the exact authentication&#10;// information from the original session." />
       <item value="排除" />
-      <item value="NoPublic" />
-      <item value="公众号" />
     </histories>
     <option name="languageScores">
       <map>
