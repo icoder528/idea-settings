@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="持仓" />
+      <item value="成交" />
       <item value="逗号" />
       <item value="备用" />
       <item value="备胎" />
@@ -49,8 +51,6 @@
       <item value="不同的" />
       <item value="diffrent" />
       <item value="不同" />
-      <item value="diffrense" />
-      <item value="diffrence" />
     </histories>
     <option name="languageScores">
       <map>
