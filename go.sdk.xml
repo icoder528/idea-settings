@@ -3,6 +3,7 @@
     <sdk-path>
       <set>
         <option value="D:/Go" />
+        <option value="D:/Program Files/GO" />
         <option value="D:\GO" />
         <option value="D:\Go" />
       </set>
