@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="敬称" />
+      <item value="称呼" />
+      <item value="情况" />
+      <item value="场景" />
+      <item value="送货时间" />
+      <item value="送货" />
+      <item value="备注" />
+      <item value="收货人" />
+      <item value="收件人" />
+      <item value="货品" />
+      <item value="商品" />
+      <item value="订货人" />
       <item value="种类" />
       <item value="报单" />
       <item value="乘法" />
@@ -39,18 +51,6 @@
       <item value="// Pipe may be set on message receipt, to indicate the Pipe from &#9;// which the Message was received.  There are no guarantees that the &#9;// Pipe is still active, and applications should only use this for &#9;// informational purposes." />
       <item value="// Pipe may be set on message receipt, to indicate the Pipe from&#10;&#9;// which the Message was received.  There are no guarantees that the&#10;&#9;// Pipe is still active, and applications should only use this for&#10;&#9;// informational purposes." />
       <item value="basis" />
-      <item value="基础" />
-      <item value="infrastructure" />
-      <item value="infrastruction" />
-      <item value="基础设施" />
-      <item value="infrustrment" />
-      <item value="payload" />
-      <item value="Daemon" />
-      <item value="守护进程" />
-      <item value="成交记录" />
-      <item value="查询成交记录" />
-      <item value="查询持仓" />
-      <item value="算法" />
     </histories>
     <option name="languageScores">
       <map>
