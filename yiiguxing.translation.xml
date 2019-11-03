@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="product" />
+      <item value="goods" />
+      <item value="商品" />
+      <item value="糕点" />
       <item value="敬称" />
       <item value="称呼" />
       <item value="情况" />
@@ -11,7 +15,6 @@
       <item value="收货人" />
       <item value="收件人" />
       <item value="货品" />
-      <item value="商品" />
       <item value="订货人" />
       <item value="种类" />
       <item value="报单" />
@@ -48,13 +51,10 @@
       <item value="overlay" />
       <item value="载荷" />
       <item value="负载" />
-      <item value="// Pipe may be set on message receipt, to indicate the Pipe from &#9;// which the Message was received.  There are no guarantees that the &#9;// Pipe is still active, and applications should only use this for &#9;// informational purposes." />
-      <item value="// Pipe may be set on message receipt, to indicate the Pipe from&#10;&#9;// which the Message was received.  There are no guarantees that the&#10;&#9;// Pipe is still active, and applications should only use this for&#10;&#9;// informational purposes." />
-      <item value="basis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
+        <entry key="CHINESE" value="174" />
         <entry key="ENGLISH" value="174" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
