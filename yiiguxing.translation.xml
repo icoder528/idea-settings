@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="种类" />
+      <item value="品种" />
       <item value="baned" />
       <item value="禁止" />
       <item value="取消的" />
@@ -22,7 +24,6 @@
       <item value="送货" />
       <item value="备注" />
       <item value="货品" />
-      <item value="种类" />
       <item value="报单" />
       <item value="乘法" />
       <item value="开仓" />
@@ -50,12 +51,11 @@
       <item value="注册" />
       <item value="注册器" />
       <item value="签到" />
-      <item value="触发" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
