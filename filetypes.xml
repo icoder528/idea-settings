@@ -2,12 +2,10 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.spec.ts;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="multimap" type="PLAIN_TEXT" />
       <mapping pattern="__init__.py" type="PLAIN_TEXT" />
-      <mapping pattern="SessionService.proto" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="SessionService.proto" type="PLAIN_TEXT" />
+      <mapping pattern="multimap" type="PLAIN_TEXT" />
       <mapping pattern="ds" type="PLAIN_TEXT" />
       <mapping pattern="stopwords" type="PLAIN_TEXT" />
       <mapping ext="protoc" type="PLAIN_TEXT" />

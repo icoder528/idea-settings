@@ -1,7 +1,4 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="PARAMETER_INFO_DELAY" value="500" />
-  </component>
   <component name="Go">
     <option name="detectGoPackageFromClipboard" value="false" />
   </component>
