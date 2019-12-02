@@ -8,13 +8,13 @@
       <mapping pattern="multimap" type="PLAIN_TEXT" />
       <mapping pattern="ds" type="PLAIN_TEXT" />
       <mapping pattern="stopwords" type="PLAIN_TEXT" />
+      <mapping ext="utf8" type="PLAIN_TEXT" />
+      <mapping ext="tml" type="PLAIN_TEXT" />
       <mapping ext="protoc" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
-      <mapping ext="tml" type="PLAIN_TEXT" />
-      <mapping ext="utf8" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tml" approved="true" type="TML" />
       <removed_mapping ext="tml" approved="true" type="TML" />
