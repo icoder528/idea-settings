@@ -12,6 +12,7 @@
     <option name="MOVE_ALL_IMPORTS_IN_ONE_DECLARATION" value="true" />
     <option name="MOVE_ALL_STDLIB_IMPORTS_IN_ONE_GROUP" value="true" />
     <option name="GROUP_STDLIB_IMPORTS" value="true" />
+    <option name="GROUP_CURRENT_PROJECT_IMPORTS" value="true" />
   </GoCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
