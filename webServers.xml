@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cd4f97a8-b35a-4fc6-865d-9dd47e01f6e6" name="WSL (cd4f97a8-b35a-4fc6-865d-9dd47e01f6e6)" url="http:///">
+        <fileTransfer host="172.25.241.143" port="2222" accessType="SFTP">
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
