@@ -1,7 +1,0 @@
-<application>
-  <component name="CPPToolchains" version="4">
-    <toolchains detectedVersion="5">
-      <toolchain name="Remote Host" toolSetKind="REMOTE" customCMakePath="\usr\bin\cmake" hostId="d7dff700-b261-425f-a29c-aa80aabfd8da" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
-    </toolchains>
-  </component>
-</application>
