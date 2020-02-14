@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="cd4f97a8-b35a-4fc6-865d-9dd47e01f6e6" name="WSL (cd4f97a8-b35a-4fc6-865d-9dd47e01f6e6)" url="http:///">
-        <fileTransfer host="172.31.193.173" port="2222" accessType="SFTP">
+        <fileTransfer host="192.168.75.9" port="2222" accessType="SFTP">
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
