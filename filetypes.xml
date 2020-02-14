@@ -2,21 +2,21 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.spec.ts;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="multimap" type="PLAIN_TEXT" />
-      <mapping pattern="stopwords" type="PLAIN_TEXT" />
-      <mapping pattern="ds" type="PLAIN_TEXT" />
-      <mapping pattern="SessionService.proto" type="PLAIN_TEXT" />
       <mapping pattern="__init__.py" type="PLAIN_TEXT" />
-      <mapping ext="protoc" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="SessionService.proto" type="PLAIN_TEXT" />
+      <mapping pattern="multimap" type="PLAIN_TEXT" />
+      <mapping pattern="ds" type="PLAIN_TEXT" />
+      <mapping pattern="stopwords" type="PLAIN_TEXT" />
+      <mapping ext="utf8" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
+      <mapping ext="protoc" type="PLAIN_TEXT" />
       <mapping ext="dict" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
-      <mapping ext="utf8" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="__init__" type="Python" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="tml" approved="true" type="TML" />
       <removed_mapping ext="tml" approved="true" type="TML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
@@ -25,6 +25,7 @@
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern="__init__" type="Python" />
     </extensionMap>
   </component>
 </application>
