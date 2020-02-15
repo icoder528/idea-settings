@@ -6,6 +6,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="SessionService.proto" type="PLAIN_TEXT" />
       <mapping pattern="multimap" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="ds" type="PLAIN_TEXT" />
       <mapping pattern="stopwords" type="PLAIN_TEXT" />
       <mapping ext="utf8" type="PLAIN_TEXT" />
