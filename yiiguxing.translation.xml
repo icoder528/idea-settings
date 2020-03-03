@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A marker superinterface indicating that a bean is eligible to be notified by the Spring container of a particular framework object through a callback-style method. The actual method signature is determined by individual subinterfaces but should typically consist of just one void-returning method that accepts a single argument. Note that merely implementing Aware provides no default functionality. Rather, processing must be done explicitly, for example in a BeanPostProcessor. Refer to org.springframework.context.support.ApplicationContextAwareProcessor for an example of processing specific *Aware interface callbacks." />
+      <item value="A marker superinterface indicating that a bean is eligible to be notified by the Spring container of a particular framework object through a callback-style method. The actual method signature is determined by individual subinterfaces but should typically consist of just one void-returning method that accepts a single argument.&#10;Note that merely implementing Aware provides no default functionality. Rather, processing must be done explicitly, for example in a BeanPostProcessor. Refer to org.springframework.context.support.ApplicationContextAwareProcessor for an example of processing specific *Aware interface callbacks." />
       <item value="amount" />
       <item value="mount" />
       <item value="country" />
@@ -49,8 +51,6 @@
       <item value="logined" />
       <item value="loginned" />
       <item value="login" />
-      <item value="时间到" />
-      <item value="重复" />
     </histories>
     <option name="languageScores">
       <map>
