@@ -9,6 +9,7 @@
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="ds" type="PLAIN_TEXT" />
       <mapping pattern="stopwords" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="utf8" type="PLAIN_TEXT" />
       <mapping ext="tml" type="PLAIN_TEXT" />
       <mapping ext="protoc" type="PLAIN_TEXT" />
