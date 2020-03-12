@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A variation of ImportSelector that runs after all @Configuration beans have been processed. This type of selector can be particularly useful when the selected imports are @Conditional. Implementations can also extend the Ordered interface or use the Order annotation to indicate a precedence against other DeferredImportSelectors. Implementations may also provide an import group which can provide additional sorting and filtering logic across different selectors." />
+      <item value="A variation of ImportSelector that runs after all @Configuration beans have been processed. This type of selector can be particularly useful when the selected imports are @Conditional.&#10;Implementations can also extend the Ordered interface or use the Order annotation to indicate a precedence against other DeferredImportSelectors.&#10;Implementations may also provide an import group which can provide additional sorting and filtering logic across different selectors." />
       <item value="Outcome" />
       <item value="get Match Outcome" />
       <item value="public abstract boolean proxyBeanMethods Specify whether @Bean methods should get proxied in order to enforce bean lifecycle behavior, e.g. to return shared singleton bean instances even in case of direct @Bean method calls in user code. This feature requires method interception, implemented through a runtime-generated CGLIB subclass which comes with limitations such as the configuration class and its methods not being allowed to declare final. The default is true, allowing for 'inter-bean references' within the configuration class as well as for external calls to this configuration's @Bean methods, e.g. from another configuration class. If this is not needed since each of this particular configuration's @Bean methods is self-contained and designed as a plain factory method for container use, switch this flag to false in order to avoid CGLIB subclass processing. Turning off bean method interception effectively processes @Bean methods individually like when declared on non-@Configuration classes, a.k.a. &quot;@Bean Lite Mode&quot; (see @Bean's javadoc). It is therefore behaviorally equivalent to removing the @Configuration stereotype." />
@@ -49,12 +51,10 @@
       <item value="备注" />
       <item value="货品" />
       <item value="报单" />
-      <item value="乘法" />
-      <item value="开仓" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
+        <entry key="CHINESE" value="185" />
         <entry key="ENGLISH" value="185" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
