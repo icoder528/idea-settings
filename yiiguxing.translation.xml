@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="类别" />
+      <item value="产品" />
+      <item value="品种" />
       <item value="A variation of ImportSelector that runs after all @Configuration beans have been processed. This type of selector can be particularly useful when the selected imports are @Conditional. Implementations can also extend the Ordered interface or use the Order annotation to indicate a precedence against other DeferredImportSelectors. Implementations may also provide an import group which can provide additional sorting and filtering logic across different selectors." />
       <item value="A variation of ImportSelector that runs after all @Configuration beans have been processed. This type of selector can be particularly useful when the selected imports are @Conditional.&#10;Implementations can also extend the Ordered interface or use the Order annotation to indicate a precedence against other DeferredImportSelectors.&#10;Implementations may also provide an import group which can provide additional sorting and filtering logic across different selectors." />
       <item value="Outcome" />
@@ -28,7 +31,6 @@
       <item value="policy" />
       <item value="请求" />
       <item value="种类" />
-      <item value="品种" />
       <item value="baned" />
       <item value="禁止" />
       <item value="取消的" />
@@ -49,13 +51,11 @@
       <item value="送货时间" />
       <item value="送货" />
       <item value="备注" />
-      <item value="货品" />
-      <item value="报单" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
