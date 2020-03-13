@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&#10;&#9; * Specify whether {@code @Bean} methods should get proxied in order to enforce&#10;&#9; * bean lifecycle behavior, e.g. to return shared singleton bean instances even&#10;&#9; * in case of direct {@code @Bean} method calls in user code. This feature&#10;&#9; * requires method interception, implemented through a runtime-generated CGLIB&#10;&#9; * subclass which comes with limitations such as the configuration class and&#10;&#9; * its methods not being allowed to declare {@code final}.&#10;&#9; * &lt;p&gt;The default is {@code true}, allowing for 'inter-bean references' within&#10;&#9; * the configuration class as well as for external calls to this configuration's&#10;&#9; * {@code @Bean} methods, e.g. from another configuration class. If this is not&#10;&#9; * needed since each of this particular configuration's {@code @Bean} methods&#10;&#9; * is self-contained and designed as a plain factory method for container use,&#10;&#9; * switch this flag to {@code false} in order to avoid CGLIB subclass processing.&#10;&#9; * &lt;p&gt;Turning off bean method interception effectively processes {@code @Bean}&#10;&#9; * methods individually like when declared on non-{@code @Configuration} classes,&#10;&#9; * a.k.a. &quot;@Bean Lite Mode&quot; (see {@link Bean @Bean's javadoc}). It is therefore&#10;&#9; * behaviorally equivalent to removing the {@code @Configuration} stereotype.&#10;&#9; * @since 5.2" />
+      <item value="&#9;/**&#10;&#9; * Specify whether {@code @Bean} methods should get proxied in order to enforce&#10;&#9; * bean lifecycle behavior, e.g. to return shared singleton bean instances even&#10;&#9; * in case of direct {@code @Bean} method calls in user code. This feature&#10;&#9; * requires method interception, implemented through a runtime-generated CGLIB&#10;&#9; * subclass which comes with limitations such as the configuration class and&#10;&#9; * its methods not being allowed to declare {@code final}.&#10;&#9; * &lt;p&gt;The default is {@code true}, allowing for 'inter-bean references' within&#10;&#9; * the configuration class as well as for external calls to this configuration's&#10;&#9; * {@code @Bean} methods, e.g. from another configuration class. If this is not&#10;&#9; * needed since each of this particular configuration's {@code @Bean} methods&#10;&#9; * is self-contained and designed as a plain factory method for container use,&#10;&#9; * switch this flag to {@code false} in order to avoid CGLIB subclass processing.&#10;&#9; * &lt;p&gt;Turning off bean method interception effectively processes {@code @Bean}&#10;&#9; * methods individually like when declared on non-{@code @Configuration} classes,&#10;&#9; * a.k.a. &quot;@Bean Lite Mode&quot; (see {@link Bean @Bean's javadoc}). It is therefore&#10;&#9; * behaviorally equivalent to removing the {@code @Configuration} stereotype.&#10;&#9; * @since 5.2" />
+      <item value="&#9;/**&#10;&#9; * Convenient way to quickly register&#10;&#9; * {@link ConfigurationProperties @ConfigurationProperties} annotated beans with&#10;&#9; * Spring. Standard Spring Beans will also be scanned regardless of this value.&#10;&#9; * @return {@code @ConfigurationProperties} annotated beans to register&#10;&#9; */" />
       <item value="Interface to be implemented by types that determine which @Configuration class(es) should be imported based on a given selection criteria, usually one or more annotation attributes. An ImportSelector may implement any of the following Aware interfaces, and their respective methods will be called prior to selectImports(org.springframework.core.type.AnnotationMetadata):" />
       <item value="Interface to be implemented by types that determine which @Configuration class(es) should be imported based on a given selection criteria, usually one or more annotation attributes.&#10;An ImportSelector may implement any of the following Aware interfaces, and their respective methods will be called prior to selectImports(org.springframework.core.type.AnnotationMetadata):" />
       <item value="收货 地址" />
@@ -48,14 +51,11 @@
       <item value="product" />
       <item value="goods" />
       <item value="商品" />
-      <item value="糕点" />
-      <item value="敬称" />
-      <item value="称呼" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
