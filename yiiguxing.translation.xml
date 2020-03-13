@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Interface to be implemented by types that determine which @Configuration class(es) should be imported based on a given selection criteria, usually one or more annotation attributes. An ImportSelector may implement any of the following Aware interfaces, and their respective methods will be called prior to selectImports(org.springframework.core.type.AnnotationMetadata):" />
+      <item value="Interface to be implemented by types that determine which @Configuration class(es) should be imported based on a given selection criteria, usually one or more annotation attributes.&#10;An ImportSelector may implement any of the following Aware interfaces, and their respective methods will be called prior to selectImports(org.springframework.core.type.AnnotationMetadata):" />
       <item value="收货 地址" />
       <item value="收货地址" />
       <item value="posted address" />
@@ -49,12 +51,10 @@
       <item value="糕点" />
       <item value="敬称" />
       <item value="称呼" />
-      <item value="情况" />
-      <item value="场景" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
+        <entry key="CHINESE" value="187" />
         <entry key="ENGLISH" value="187" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
