@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reference queues, to which registered reference objects are appended by the&#10; * garbage collector after the appropriate reachability changes are detected." />
       <item value="volatile" />
       <item value="模拟" />
       <item value="Sneaky" />
@@ -50,12 +51,11 @@
       <item value="取消的" />
       <item value="cancelled" />
       <item value="收货人" />
-      <item value="收件人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="196" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="FILIPINO" value="1" />
