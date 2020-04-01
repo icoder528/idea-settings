@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="learn" />
       <item value="narrowing" />
       <item value="eligible" />
       <item value="Once in effect, the auto-configuration is the equivalent of enabling JPA repositories&#10; * using the {@link EnableJpaRepositories @EnableJpaRepositories} annotation." />
@@ -50,7 +51,6 @@
       <item value="国家" />
       <item value="家庭" />
       <item value="famliy" />
-      <item value="familiy" />
     </histories>
     <option name="languageScores">
       <map>
